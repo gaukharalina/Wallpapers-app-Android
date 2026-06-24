@@ -1,0 +1,6 @@
+{
+  "name": "Vibe Wallpapers",
+  "description": "Generate phone wallpapers based on your desired vibe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
